@@ -1,0 +1,32 @@
+{
+    "name": "Oliver Chán",
+    "role": "Frontend Developer",
+    "bio": "Nadšenec do IT a do fitka",
+    "skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript (ES6+)",
+        "React",
+        "Git",
+        "Tailwind CSS",
+        "Node.js",
+        "Figma"
+    ],
+    "projects": [
+        {
+            "title": "E-commerce Dashboard",
+            "description": "Interaktivní administrátorský panel pro správu objednávek a produktů s využitím React a Chart.js.",
+            "link": "https://demos.creative-tim.com/argon-dashboard-react/"
+        },
+        {
+            "title": "Weather App",
+            "description": "Aplikace pro předpověď počasí v reálném čase napojená na OpenWeatherMap API.",
+            "link": "https://www.chmi.cz"
+        },
+        {
+            "title": "Task Manager",
+            "description": "Produktivní nástroj pro správu úkolů s možností drag-and-drop a lokálním úložištěm.",
+            "link": "https://taskmanager.cz/tmpage/"
+        }
+    ]
+}
